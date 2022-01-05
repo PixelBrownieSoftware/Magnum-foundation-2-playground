@@ -1,0 +1,16 @@
+{
+    "name": "com.magnumfoundation2.editor",
+    "references": [
+        "GUID:e5de7bf54070c2e47afc6eed86df930a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
